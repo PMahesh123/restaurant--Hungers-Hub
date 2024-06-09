@@ -2,7 +2,7 @@
 <head>
       <title>Document</title>
 </head>
-<body background="img/img11.jpg">
+<body background="img/01.jpg">
 
 <table border="2"width="100%"height="700px">
 <!---Row1--->
@@ -31,17 +31,7 @@
 
 <!---Row4--->
 <tr>
-<th></th>
-<th></th>
-
-<!---Row5--->
-<tr>
 <th colspan="6">
 <font color="black"> Thankyou for visiting </font>
 </th>
 </tr>
-
-<!---Row6--->
-<tr>
-<th></th>
-<th></th>
